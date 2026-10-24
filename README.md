@@ -18,23 +18,17 @@ I'm a passionate developer and creative professional who enjoys building modern 
 ## 📌 Contact Information
 
 <p align="left">
-  <a href="YOUR_ORG_URL">
-    <img src="https://img.shields.io/badge/Organization-OroSec-222222?style=flat&logo=github&logoColor=white" alt="OroSec"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="18" height="18" alt="LinkedIn"/> &nbsp;
+  <a href="www.linkedin.com/in/amanuel-dereje">LinkedIn Profile</a>
   <br/><br/>
-
-  📍 Ethiopia
+  <img src="https://skillicons.dev/icons?i=github" width="18" height="18" alt="GitHub"/> &nbsp;
+  <a href="https://github.com/amanueldere44">github.com/amanueldere44</a>
   <br/><br/>
-
-  🕒 East Africa Time (EAT, UTC+3)
+  📍 &nbsp; Ethiopia
   <br/><br/>
-
-  <a href="www.linkedin.com/in/amanuel-dereje">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  🕒 &nbsp; East Africa Time (EAT, UTC+3)
   <br/><br/>
-
-  💻 <a href="https://github.com/amanueldere44">github.com/amanueldere44</a>
+  💼 &nbsp; Open to junior developer jobs, internships, and freelance opportunities
 </p>
 
 <!-- Optional: Add your actual workplace if applicable.

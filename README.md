@@ -2,7 +2,7 @@
 
 ### 💻 Full-Stack Web Developer | 🎬 Video Editor | 🎨 Graphic Designer 
 
-I'm a passionate developer and creative professional who enjoys building modern web applications, creating engaging digital content, and exploring cybersecurity. I’m continuously learning new technologies and working to develop practical skills through projects and hands-on experience.
+I'm a passionate developer and creative professional who enjoys building modern web applications, creating engaging and digital content. I’m continuously learning new technologies and working to develop practical skills through projects and hands-on experience.
 
 - 💻 Building responsive and user-friendly web applications
 - 🎨 Creating graphic designs and visual content

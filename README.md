@@ -103,7 +103,6 @@ Here are some projects I’m working on and learning from.
 
 - 🔹 **Web Development Projects** — Responsive websites and web application experiments.
 - 🔹 **Creative Projects** — Graphic design and video editing work.
-- 🔹 **Cybersecurity Labs** — Legal, authorized practice labs and security learning projects.
 
 👉 [Explore my GitHub repositories](https://github.com/amanueldere44?tab=repositories)
 
@@ -120,7 +119,6 @@ Here are some projects I’m working on and learning from.
 
 - 📚 Strengthen my full-stack development skills
 - 🧩 Build and publish practical projects
-- 🔐 Improve my cybersecurity knowledge through authorized labs
 - 🎨 Continue developing my creative design and video editing skills
 
 ---

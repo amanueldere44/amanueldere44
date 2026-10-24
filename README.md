@@ -25,24 +25,81 @@ I'm a passionate developer and creative professional who enjoys building modern 
 
 ---
 
-## 🧰 Technologies & Tools
+## 🧰 Languages & Tools
 
-*Add the technologies you actually use to make this section accurate.*
+### 💻 Programming Languages
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/>
+  </a>
+</p>
 
-## 🛠️ Languages and Tools
+### 🎨 Frontend Development
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/>
+  </a>
+  <a href="https://vite.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="45" height="45"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45"/>
+  </a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### ⚙️ Backend Development
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="45" height="45"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45"/>
+  </a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🗄️ Databases
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/>
+  </a>
+</p>
 
----
-
+### 🛠️ Development Tools
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="45" height="45"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" height="45"/>
+  </a>
+</p>
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanueldere44&show_icons=true&theme=tokyonight&hide_border=true)

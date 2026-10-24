@@ -1,27 +1,14 @@
 # Hi 👋, I'm Amanuel Dereje
 
-### 💻 Full-Stack Web Developer | 🎬 Video Editor | 🎨 Graphic Designer | 🔐 Cybersecurity Enthusiast
+### 💻 Full-Stack Web Developer | 🎬 Video Editor | 🎨 Graphic Designer 
 
 I'm a passionate developer and creative professional who enjoys building modern web applications, creating engaging digital content, and exploring cybersecurity. I’m continuously learning new technologies and working to develop practical skills through projects and hands-on experience.
 
 - 💻 Building responsive and user-friendly web applications
 - 🎨 Creating graphic designs and visual content
 - 🎬 Editing videos and producing engaging media
-- 🔐 Exploring ethical hacking and web penetration testing in authorized environments
 - 🌱 Continuously learning, experimenting, and improving
 - 🚀 Working toward building useful, secure, and impactful digital solutions
-
----
-
-## 🛠️ Skills & Interests
-
-| Area | Focus |
-|---|---|
-| 🌐 Web Development | Frontend and backend development |
-| 🎨 Graphic Design | Visual design and digital assets |
-| 🎬 Video Editing | Video production and content editing |
-| 🔐 Cybersecurity | Ethical hacking and authorized penetration testing |
-| 📚 Continuous Learning | Building projects and improving technical skills |
 
 ---
 
@@ -54,9 +41,9 @@ I'm a passionate developer and creative professional who enjoys building modern 
   <a href="https://vite.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="45" height="45"/>
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
+  <!-- <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45"/>
-  </a>
+  </a> -->
 </p>
 
 ### ⚙️ Backend Development
@@ -93,12 +80,12 @@ I'm a passionate developer and creative professional who enjoys building modern 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="45" height="45"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank">
+  <!-- <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
+  </a> -->
+  <!-- <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45" height="45"/>
-  </a>
+  </a> -->
 </p>
 ## 📊 GitHub Statistics
 
@@ -126,7 +113,6 @@ Here are some projects I’m working on and learning from.
 
 - 💻 **GitHub:** [@amanueldere44](https://github.com/amanueldere44)
 
-*Add your LinkedIn, portfolio, or professional email here if you have one.*
 
 ---
 

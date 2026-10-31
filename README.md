@@ -127,13 +127,13 @@ I'm a passionate developer and creative professional who enjoys building modern 
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amanueldere44&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanueldere44&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amanueldere44&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
